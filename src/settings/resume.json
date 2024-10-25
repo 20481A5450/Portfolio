@@ -41,14 +41,14 @@
             },
             {
                 "network": "GitLab",
-                "username": "warisamir",
-                "url": "https://gitlab.com/warisamir",
+                "username": "",
+                "url": "https://gitlab.com/",
                 "x_icon": "fab fa-gitlab"
             },
             {
                 "network": "Telegram",
-                "username": "warisamir",
-                "url": "",
+                "username": "Shaikzo",
+                "url": "https://t.me/Shaikzo",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
