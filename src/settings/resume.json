@@ -1,36 +1,36 @@
 {
     "basics": {
-        "name": "Waris Amir",
-        "label": "web Developer",
-        "email": "warisamir1918@gmail.com",
+        "name": "Zohaib Shaik",
+        "label": "",
+        "email": "shaikzohaibgec@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "mt.png",
         "x_title": "Hello, I'm",
         "job1": "Web",
         "job2": "Developer",
-        "description": "Hello! I'm Waris! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "description": "Hello! I'm Zohaib! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
         "summary": "based in Ghaziabad, India.",
         "keywords": "personal,website,portfolio,template,kit,Waris,Amir,webdev,web,developer,Ghaziabad,India,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
         "url": "https://portfolio-warisamir.vercel.app/",
         "location": {
             "address": "XX XXXXXstreet",
-            "postalCode": "XXXXX",
-            "city": "Ghaziabad",
+            "postalCode": "521101",
+            "city": "Vijayawada",
             "country": "India",
             "countryCode": "IN",
-            "region": "Uttar Pradesh"
+            "region": "Andhra Pradesh"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "warisamir1918@gmail.com",
-                "url": "mailto:warisamir1918@gmail.com",
+                "username": "shaikzohaib@gmail.com",
+                "url": "mailto:shaikzohaibgec@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
                 "username": "warisamir",
-                "url": "https://www.linkedin.com/in/waris-amir-0387461b3/",
+                "url": "https://www.linkedin.com/in/zohaib-shaik-1a8877216/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
@@ -48,7 +48,7 @@
             {
                 "network": "Telegram",
                 "username": "warisamir",
-                "url": "https://t.me/Rockyansari",
+                "url": "",
                 "x_icon": "fab fa-telegram-plane"
             },
             {
