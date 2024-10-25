@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "Waris Amir",
+        "label": "web Developer",
+        "email": "warisamir1918@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Web",
+        "job2": "Developer",
+        "description": "Hello! I'm Waris! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Ghaziabad, India.",
+        "keywords": "personal,website,portfolio,template,kit,Waris,Amir,webdev,web,developer,Ghaziabad,India,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://portfolio-warisamir.vercel.app/",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Ghaziabad",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "warisamir1918@gmail.com",
+                "url": "mailto:warisamir1918@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "warisamir",
+                "url": "https://www.linkedin.com/in/waris-amir-0387461b3/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "warisamir",
+                "url": "https://github.com/warisamir",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "warisamir",
+                "url": "https://gitlab.com/warisamir",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Telegram",
+                "username": "warisamir",
+                "url": "https://t.me/Rockyansari",
+                "x_icon": "fab fa-telegram-plane"
+            },
+            {
+                "network": "Discord",
+                "username": "rockhardy#1062",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Company",
+            "position": "President",
+            "website": "http://company.com",
+            "startDate": "2013-01-01",
+            "endDate": "2014-01-01",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2020-06-29",
+            "endDate": "2013-06-10",
+            "gpa": "4.0",
+            "courses": ["Btech-Information Technology"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        },
+        {
+            "language": "urdu",
+            "fluency": "Good knowledge"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife photography",
+            "keywords": ["Lions", "snakes"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Akasha Khandelwal ,Archit Aggarwal , snigdha ",
+            "reference": "Reference..."
+        }
+    ]
+}
